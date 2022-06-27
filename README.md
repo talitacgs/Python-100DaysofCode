@@ -1,1 +1,38 @@
-# Python_100DaysOfCode
+# 100 Days of Code: Python
+##### Starting from: Jun 2022
+
+- Day 01: 
+- Day 02: 
+- Day 03: 
+- Day 04: 
+- Day 05: 
+- Day 06: 
+- Day 07: 
+- Day 08: 
+- Day 09: 
+- Day 10: 
+- Day 11:
+- Day 12:
+- Day 13:
+- Day 14:
+- Day 15: [Local Development Environment Setup & the Coffee Machine](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2015)
+- Day 16: [Object Oriented Programming (OOP)](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2016)
+- Day 17: [The Quiz Project & the Benefits of OOP](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2017)
+- Day 18: 
+- Day 19: 
+- Day 20: 
+- Day 21: 
+- Day 22: 
+- Day 23: 
+- Day 24: 
+- Day 25: 
+- Day 26: 
+- Day 27: 
+- Day 28: 
+- Day 29: 
+- Day 30: 
+- Day 31: 
+- Day 32: 
+- Day 33: 
+- Day 34: 
+- Day 35: 
