@@ -1,0 +1,7 @@
+.idea
+venv
+__pycache__
+__MACOSX
+Input
+Output
+.DS_Store
