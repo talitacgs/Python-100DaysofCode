@@ -1,0 +1,3 @@
+github | youremail@gmail.com | qwerty
+facebook | youremail@gmail.com | 123456
+instagram | youremail@gmail.com | 123456789
