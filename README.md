@@ -1,5 +1,6 @@
-# 100 Days of Code: Python
-##### Starting from: Jun 2022
+<h1 align="center"> # 100 Days of Code: Python </h1>
+<p align="center"> Starting from: Jun 2022 ▶️ </p>
+
 
 - Day 01: 
 - Day 02: 
