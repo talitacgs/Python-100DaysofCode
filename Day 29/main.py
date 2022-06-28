@@ -19,7 +19,7 @@ def generate_password():
     password = "".join(password_list)
     password_entry.insert(0, string=f"{password}")
     pyperclip.copy(password)
-    
+
 # ---------------------------- SAVE PASSWORD ------------------------------- #
 
 def save():
