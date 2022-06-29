@@ -30,8 +30,8 @@
 - Day 26: [List Comprehension and the NATO Alphabet](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2026)
 - Day 27: [Tkinter, *args, **kwargs and Creating GUI Programs](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2027)
 - Day 28: [Tkinter, Dynamic Typing and the Pomodoro GUI Application](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2028)
-- Day 29: 
-- Day 30: 
+- Day 29: [Building a Password Manager GUI App with Tkinter](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2029)
+- Day 30: [Errors, Exceptions and JSON Data: Improving the Password Manager](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2030)
 - Day 31: 
 - Day 32: 
 - Day 33: 
