@@ -2,12 +2,12 @@
 <p align="center"> Starting from: Jun 2022 ▶️ </p>
 
 
-- Day 01: 
-- Day 02: 
-- Day 03: 
-- Day 04: 
-- Day 05: 
-- Day 06: 
+- Day 01: Working with Variables in Python to Manage Data
+- Day 02: Understanding Data Types and How to Manipulate Strings
+- Day 03: Control Flow and Logical Operators
+- Day 04: Randomisation and Python Lists
+- Day 05: Python Loops
+- Day 06: Python Functions & Karel
 - Day 07: [Hangman](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2007)
 - Day 08: [Function Parameters & Caesar Cipher](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2008)
 - Day 09: [Dictionaries, Nesting and the Secret Auction](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2009)
@@ -32,8 +32,8 @@
 - Day 28: [Tkinter, Dynamic Typing and the Pomodoro GUI Application](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2028)
 - Day 29: [Building a Password Manager GUI App with Tkinter](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2029)
 - Day 30: [Errors, Exceptions and JSON Data: Improving the Password Manager](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2030)
-- Day 31: 
-- Day 32: 
+- Day 31: [Flash Card App Capstone Project](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2031)
+- Day 32: Send Email (smtplib) & Manage Dates (datetime)
 - Day 33: 
 - Day 34: 
 - Day 35: 
