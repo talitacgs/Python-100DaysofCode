@@ -33,7 +33,7 @@
 - Day 29: [Building a Password Manager GUI App with Tkinter](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2029)
 - Day 30: [Errors, Exceptions and JSON Data: Improving the Password Manager](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2030)
 - Day 31: [Flash Card App Capstone Project](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2031)
-- Day 32: Send Email (smtplib) & Manage Dates (datetime)
-- Day 33: 
-- Day 34: 
-- Day 35: 
+- Day 32: [Send Email (smtplib) & Manage Dates (datetime)](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2032)
+- Day 33: [API Endpoints & API Parameters - ISS Overhead Notifier](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2033)
+- Day 34: API Practice - Creating a GUI Quiz App
+- Day 35: Keys, Authentication & Environment Variables: Send SMS
