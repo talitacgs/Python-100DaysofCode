@@ -35,5 +35,5 @@
 - Day 31: [Flash Card App Capstone Project](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2031)
 - Day 32: [Send Email (smtplib) & Manage Dates (datetime)](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2032)
 - Day 33: [API Endpoints & API Parameters - ISS Overhead Notifier](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2033)
-- Day 34: API Practice - Creating a GUI Quiz App
+- Day 34: [API Practice - Creating a GUI Quiz App](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2034)
 - Day 35: Keys, Authentication & Environment Variables: Send SMS
