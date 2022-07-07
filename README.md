@@ -2,11 +2,11 @@
 <p align="center"> Starting from: Jun 2022 ▶️ </p>
 
 
-- Day 01: Working with Variables in Python to Manage Data
-- Day 02: Understanding Data Types and How to Manipulate Strings
-- Day 03: Control Flow and Logical Operators
-- Day 04: Randomisation and Python Lists
-- Day 05: Python Loops
+- Day 01: [Working with Variables in Python to Manage Data](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2001)
+- Day 02: [Understanding Data Types and How to Manipulate Strings](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2002)
+- Day 03: [Control Flow and Logical Operators](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2003)
+- Day 04: [Randomisation and Python Lists](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2004)
+- Day 05: [Python Loops](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2005)
 - Day 06: Python Functions & Karel
 - Day 07: [Hangman](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2007)
 - Day 08: [Function Parameters & Caesar Cipher](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2008)
@@ -36,4 +36,11 @@
 - Day 32: [Send Email (smtplib) & Manage Dates (datetime)](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2032)
 - Day 33: [API Endpoints & API Parameters - ISS Overhead Notifier](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2033)
 - Day 34: [API Practice - Creating a GUI Quiz App](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2034)
-- Day 35: Keys, Authentication & Environment Variables: Send SMS
+- Day 35: [Keys, Authentication & Environment Variables: Send SMS](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2035)
+- Day 36: [Stock Trading News Alert Project](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2036)
+- Day 37: Habit Tracking Project: API Post Requests & Headers
+- Day 38: Workout Tracking Using Google Sheets
+- Day 39: Capstone Part 1: Flight Deal Finder
+- Day 40: Capstone Part 2: Flight Club
+- Day 41: Introduction to HTML
+- Day 42: Intermediate HTML
