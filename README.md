@@ -39,7 +39,7 @@
 - Day 35: [Keys, Authentication & Environment Variables: Send SMS](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2035)
 - Day 36: [Stock Trading News Alert Project](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2036)
 - Day 37: [Habit Tracking Project: API Post Requests & Headers](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2037)
-- Day 38: Workout Tracking Using Google Sheets
+- Day 38: [Workout Tracking Using Google Sheets](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2038)
 - Day 39: Capstone Part 1: Flight Deal Finder
 - Day 40: Capstone Part 2: Flight Club
 - Day 41: Introduction to HTML
