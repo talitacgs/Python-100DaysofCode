@@ -1,8 +1,9 @@
 import requests
 from datetime import datetime
+import os
 
-USERNAME = "talitacgs"
-TOKEN = "asdasdasd"
+USERNAME = os.environ.get('username')
+TOKEN = os.environ.get('token')
 ID = "graph1"
 
 #create user
