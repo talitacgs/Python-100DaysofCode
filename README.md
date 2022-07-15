@@ -42,5 +42,5 @@
 - Day 38: [Workout Tracking Using Google Sheets](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2038)
 - Day 39: [Capstone Part 1: Flight Deal Finder](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2039)
 - Day 40: [Capstone Part 2: Flight Club](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2040)
-- Day 41: Introduction to HTML
+- Day 41: [Introduction to HTML](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2041)
 - Day 42: Intermediate HTML
