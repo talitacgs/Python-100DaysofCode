@@ -1,5 +1,20 @@
 <h1 align="center"> # 100 Days of Code: Python </h1>
-<p align="center"> Starting from: Jun 2022 ▶️ </p>
+<font size="2"><p align="center"> Starting from: Jun 2022 ▶️ </p></font><br>
+
+
+<div align="center">
+<em> Some Tools & Technologies </em><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="37"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30"/>
+          
+</div><br>
 
 
 - Day 01: [Working with Variables in Python to Manage Data](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2001)
@@ -44,3 +59,14 @@
 - Day 40: [Capstone Part 2: Flight Club](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2040)
 - Day 41: [Introduction to HTML](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2041)
 - Day 42: [Intermediate HTML](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2042)
+- Day 43: [Introduction to CSS](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2043)
+- Day 44: Intermediate CSS
+- Day 45: Web Scraping with Beautiful Soup
+- Day 46: Create a Spotify Playlist using the Musical Time Machine
+- Day 47: Create an Automated Amazon Price Tracker
+- Day 48: Selenium Webdriver Browser and Game Playing Bot
+- Day 49: Automating Job Applications on LinkedIn
+
+
+
+<font size="2"><p align="center"> Last Update: Jul 07, 2022 🚧️ </p></font>
