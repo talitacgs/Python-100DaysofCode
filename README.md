@@ -63,7 +63,7 @@
 - Day 44: [Intermediate CSS](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2044)
 - Day 45: [Web Scraping with Beautiful Soup](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2045)
 - Day 46: Create a Spotify Playlist using the Musical Time Machine
-- Day 47: Create an Automated Amazon Price Tracker
+- Day 47: [Create an Automated Amazon Price Tracker](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2047)
 - Day 48: Selenium Webdriver Browser and Game Playing Bot
 - Day 49: Automating Job Applications on LinkedIn
 
