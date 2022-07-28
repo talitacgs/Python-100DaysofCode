@@ -22,7 +22,7 @@
 - Day 03: [Control Flow and Logical Operators](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2003)
 - Day 04: [Randomisation and Python Lists](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2004)
 - Day 05: [Python Loops](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2005)
-- Day 06: Python Functions & Karel
+- Day 06: [Python Functions & Karel](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2006)
 - Day 07: [Hangman](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2007)
 - Day 08: [Function Parameters & Caesar Cipher](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2008)
 - Day 09: [Dictionaries, Nesting and the Secret Auction](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2009)
