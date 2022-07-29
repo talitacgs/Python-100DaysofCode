@@ -9,6 +9,13 @@ h1 {
     font-weight: 900;
 }
 
+h2 {
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 3rem;
+    font-height: 1.5;
+}
+
 #title {
     background-color: #ff4c68;
     color: #fff;
@@ -85,4 +92,46 @@ h1 {
 
 .icon-features:hover {
     color: #ff4c68;
+}
+
+/* Testimonial Section */
+
+#testimonials {
+    text-align: center;
+    background-color:#ef8172;
+    color: #fff;
+}
+
+.testimonial-image {
+    width: 25%;
+    border-radius: 100%;
+    margin: 20px;
+
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+/* Price Section */
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column {
+    padding: 3% 2%;
 }
