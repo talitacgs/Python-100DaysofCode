@@ -65,8 +65,16 @@
 - Day 46: [Create a Spotify Playlist using the Musical Time Machine](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2046)
 - Day 47: [Create an Automated Amazon Price Tracker](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2047)
 - Day 48: Selenium Webdriver Browser and Game Playing Bot
-- Day 49: Automating Job Applications on LinkedIn
+- Day 49: [Automating Job Applications on LinkedIn](https://github.com/talitacgs/Python-100DaysofCode/blob/main/Day%2049/main.py)
+- Day 50: Auto Tinder Swiping Bot
+- Day 51: Internet Speed Twitter Complaint Bot
+- Day 52: Instagram Follower Bot
+- Day 53: Data Entry Job Automation
+- Day 54: Introduction to Web Development with Flask
+- Day 55: HTML & URL Parsing in Flask and the Higher Lower Game
+- Day 56: Rendering HTML/Static files and Using Website Templates
+- Day 57: Templating with Jinja in Flask Applications
+- Day 58: [Bootstrap](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2058)
 
 
-
-<font size="2"><p align="center"> Last Update: Jul 07, 2022 🚧️ </p></font>
+<font size="2"><p align="center"> Last Update: Aug 02, 2022 🚧️ </p></font>
