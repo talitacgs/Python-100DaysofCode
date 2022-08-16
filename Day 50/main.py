@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import time
 
 chrome_drive_path = "C:\Development\chromedriver.exe"
@@ -22,6 +23,8 @@ time.sleep(3)
 
 login_button = driver.find_element(By.XPATH, '//*[@id="u916312630"]/div/div/div[1]/div/div/div[3]/span/div[1]/div/button/span[2]')
 login_button.click()
+
+wait.until(EC.number_of_windows_to_be(2))
 
 # Loop through until we find a new window handle
 for window_handle in driver.window_handles:
