@@ -66,8 +66,8 @@
 - Day 47: [Create an Automated Amazon Price Tracker](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2047)
 - Day 48: Selenium Webdriver Browser and Game Playing Bot
 - Day 49: [Automating Job Applications on LinkedIn](https://github.com/talitacgs/Python-100DaysofCode/blob/main/Day%2049/main.py)
-- Day 50: Auto Tinder Swiping Bot
-- Day 51: Internet Speed Twitter Complaint Bot
+- Day 50: [Auto Tinder Swiping Bot](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2050)
+- Day 51: [Internet Speed Twitter Complaint Bot](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2051)
 - Day 52: Instagram Follower Bot
 - Day 53: Data Entry Job Automation
 - Day 54: Introduction to Web Development with Flask
@@ -77,4 +77,4 @@
 - Day 58: [Bootstrap](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2058)
 
 
-<font size="2"><p align="center"> Last Update: Aug 02, 2022 🚧️ </p></font>
+<font size="2"><p align="center"> Last Update: Aug 16, 2022 🚧️ </p></font>
