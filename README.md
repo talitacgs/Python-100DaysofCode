@@ -75,6 +75,17 @@
 - Day 56: Rendering HTML/Static files and Using Website Templates
 - Day 57: Templating with Jinja in Flask Applications
 - Day 58: [Bootstrap](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2058)
+- Day 71: Data Exploration with Pandas: College Major v.s. Your Salary
+- Day 72: Data Visualisation with Matplotlib: Programming Languages
+- Day 73: Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
+- Day 74: Google Trends Data: Resampling and Visualising Time Series
+- Day 75: Beautiful Plotly Charts & Analysing the Android App Store
+- Day 76: [Computation with NumPy and N-Dimensional Arrays](https://github.com/talitacgs/Python-100DaysofCode/blob/main/Day%2076/Computation_with_NumPy_and_N_Dimensional_Arrays_(start).ipynb)
+- Day 77: Linear Regression and Data Visualisation with Seaborn
+- Day 78: Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
+- Day 79: The Tragic Discovery of Handwashing: t-Tests & Distributions
+- Day 80: Capstone Project - Predict House Prices
 
 
-<font size="2"><p align="center"> Last Update: Aug 16, 2022 🚧️ </p></font>
+<font size="2"><p align="center"> Last Update: Oct 31, 2022 🚧️ </p>
+<div align="center">Did you like it ? Let me know ⭐ this repository</div></font>
