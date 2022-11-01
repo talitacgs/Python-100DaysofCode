@@ -75,7 +75,7 @@
 - Day 56: Rendering HTML/Static files and Using Website Templates
 - Day 57: Templating with Jinja in Flask Applications
 - Day 58: [Bootstrap](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2058)
-- Day 71: Data Exploration with Pandas: College Major v.s. Your Salary
+- Day 71: [Data Exploration with Pandas: College Major v.s. Your Salary](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2071)
 - Day 72: Data Visualisation with Matplotlib: Programming Languages
 - Day 73: Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
 - Day 74: Google Trends Data: Resampling and Visualising Time Series
@@ -87,5 +87,5 @@
 - Day 80: Capstone Project - Predict House Prices
 
 
-<font size="2"><p align="center"> Last Update: Oct 31, 2022 🚧️ </p>
+<font size="2"><p align="center"> Last Update: Nov 01, 2022 🚧️ </p>
 <div align="center">Did you like it ? Let me know ⭐ this repository</div></font>
