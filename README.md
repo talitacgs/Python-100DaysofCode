@@ -76,7 +76,7 @@
 - Day 57: Templating with Jinja in Flask Applications
 - Day 58: [Bootstrap](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2058)
 - Day 71: [Data Exploration with Pandas: College Major v.s. Your Salary](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2071)
-- Day 72: Data Visualisation with Matplotlib: Programming Languages
+- Day 72: [Data Visualisation with Matplotlib: Programming Languages](https://github.com/talitacgs/Python-100DaysofCode/blob/main/Day%2072/Programming_Languages_(start).ipynb)
 - Day 73: Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
 - Day 74: Google Trends Data: Resampling and Visualising Time Series
 - Day 75: Beautiful Plotly Charts & Analysing the Android App Store
@@ -87,5 +87,5 @@
 - Day 80: Capstone Project - Predict House Prices
 
 
-<font size="2"><p align="center"> Last Update: Nov 01, 2022 🚧️ </p>
+<font size="2"><p align="center"> Last Update: Nov 02, 2022 🚧️ </p>
 <div align="center">Did you like it ? Let me know ⭐ this repository</div></font>
