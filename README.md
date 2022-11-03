@@ -16,6 +16,7 @@
           
 </div><br>
 
+#### Beginner
 
 - Day 01: [Working with Variables in Python to Manage Data](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2001)
 - Day 02: [Understanding Data Types and How to Manipulate Strings](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2002)
@@ -31,6 +32,9 @@
 - Day 12: [Scope and Namespacing in Python](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2012)
 - Day 13: [Debugging: How to Find and Fix Errors in your Code](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2013)
 - Day 14: [Higher Lower Game Project](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2014)
+
+#### Intermediate
+
 - Day 15: [Local Development Environment Setup & the Coffee Machine](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2015)
 - Day 16: [Object Oriented Programming (OOP)](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2016)
 - Day 17: [The Quiz Project & the Benefits of OOP](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2017)
@@ -74,10 +78,25 @@
 - Day 55: HTML & URL Parsing in Flask and the Higher Lower Game
 - Day 56: Rendering HTML/Static files and Using Website Templates
 - Day 57: Templating with Jinja in Flask Applications
+
+#### Advanced
+
 - Day 58: [Bootstrap](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2058)
+- Day 59: Blog Capstone Project Part 2 - Adding Styling
+- Day 60: POST Requests with Flask and HTML Forms
+- Day 61: Building Advanced Forms with Flask-WTForms
+- Day 62: Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
+- Day 63: Databases and with SQLite and SQLAlchemy
+- Day 64: My Top 10 Movies Website
+- Day 65: How to Create a Website that People will Love
+- Day 66: Building Your Own API with RESTful Routing
+- Day 67: Blog Capstone Project Part 3 - RESTful Routing
+- Day 68: Authentication with Flask
+- Day 69: Blog Capstone Project Part 4 - Adding Users
+- Day 70: Deploying Your Web Application with Digital Ocean
 - Day 71: [Data Exploration with Pandas: College Major v.s. Your Salary](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2071)
 - Day 72: [Data Visualisation with Matplotlib: Programming Languages](https://github.com/talitacgs/Python-100DaysofCode/blob/main/Day%2072/Programming_Languages_(start).ipynb)
-- Day 73: Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
+- Day 73: [Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset](https://github.com/talitacgs/Python-100DaysofCode/blob/main/Day%2073/Lego_Analysis_for_Course_(start).ipynb)
 - Day 74: Google Trends Data: Resampling and Visualising Time Series
 - Day 75: Beautiful Plotly Charts & Analysing the Android App Store
 - Day 76: [Computation with NumPy and N-Dimensional Arrays](https://github.com/talitacgs/Python-100DaysofCode/blob/main/Day%2076/Computation_with_NumPy_and_N_Dimensional_Arrays_(start).ipynb)
@@ -86,6 +105,28 @@
 - Day 79: The Tragic Discovery of Handwashing: t-Tests & Distributions
 - Day 80: Capstone Project - Predict House Prices
 
+#### Professional
 
-<font size="2"><p align="center"> Last Update: Nov 02, 2022 🚧️ </p>
+- Day 81: Professional Portfolio Project - (Python Scripting)
+- Day 82: Professional Portfolio Project - (Python Web Development)
+- Day 83: Professional Portfolio Project - (Python Scripting)
+- Day 84: Professional Portfolio Project - (GUI)
+- Day 85: Professional Portfolio Project - (GUI)
+- Day 86: Professional Portfolio Project - (Game)
+- Day 87: Professional Portfolio Project - (Web Development)
+- Day 88: Professional Portfolio Project - (Web Development)
+- Day 89: Professional Portfolio Project - (GUI Desktop App)
+- Day 90: Professional Portfolio Project - (HTTP Requests & APIs)
+- Day 91: Professional Portfolio Project - (Image Processing & Data Science)
+- Day 92: Professional Portfolio Project - (Web Scraping)
+- Day 93: Professional Portfolio Project - (GUI Automation)
+- Day 94: Professional Portfolio Project - (Game)
+- Day 95: Professional Portfolio Project - (HTTP Requests & APIs)
+- Day 96: Professional Portfolio Project - (Web Development)
+- Day 97: Professional Portfolio Project - (Python Automation)
+- Day 98: Professional Portfolio Project - (Data Science)
+- Day 99: Professional Portfolio Project - (Data Science)
+- Day 100: Professional Portfolio Project - (Data Science)
+
+<font size="2"><p align="center"> Last Update: Nov 03, 2022 🚧️ </p>
 <div align="center">Did you like it ? Let me know ⭐ this repository</div></font>
