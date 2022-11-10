@@ -97,8 +97,8 @@
 - Day 71: [Data Exploration with Pandas: College Major v.s. Your Salary](https://github.com/talitacgs/Python-100DaysofCode/tree/main/Day%2071)
 - Day 72: [Data Visualisation with Matplotlib: Programming Languages](https://github.com/talitacgs/Python-100DaysofCode/blob/main/Day%2072/Programming_Languages_(start).ipynb)
 - Day 73: [Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset](https://github.com/talitacgs/Python-100DaysofCode/blob/main/Day%2073/Lego_Analysis_for_Course_(start).ipynb)
-- Day 74: Google Trends Data: Resampling and Visualising Time Series
-- Day 75: Beautiful Plotly Charts & Analysing the Android App Store
+- Day 74: [Google Trends Data: Resampling and Visualising Time Series](https://github.com/talitacgs/Python-100DaysofCode/blob/main/Day%2074/Google_Trends_and_Data_Visualisation_(start).ipynb)
+- Day 75: [Beautiful Plotly Charts & Analysing the Android App Store](https://github.com/talitacgs/Python-100DaysofCode/blob/main/Day%2075/Google_Play_Store_App_Analytics_(start).ipynb)
 - Day 76: [Computation with NumPy and N-Dimensional Arrays](https://github.com/talitacgs/Python-100DaysofCode/blob/main/Day%2076/Computation_with_NumPy_and_N_Dimensional_Arrays_(start).ipynb)
 - Day 77: Linear Regression and Data Visualisation with Seaborn
 - Day 78: Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
